@@ -1,8 +1,4 @@
 <?php 
-	/**
-	 * author by Faiz Muazzam
-	 */
-	// membuat class
 	class Kalkulator{
 	// deklarasi properti (private)
 	private $nilai1 = 10;

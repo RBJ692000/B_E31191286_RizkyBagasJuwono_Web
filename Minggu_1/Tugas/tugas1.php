@@ -1,8 +1,4 @@
 <?php
-	/**
-	 * author by Faiz Muazzam
-	 */
-	//Declare class
 	class Buku 
 	{
 		//properties

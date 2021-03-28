@@ -1,9 +1,6 @@
 <?php 
 	// include file untuk menjalankan class Circle dan interface
 	include 'Circle.php';
-	/**
-	 * Author Faiz Muazzam
-	 */
 	// membuat class Rectacle dan implements interface
 	class Rectangle implements Shape
 	{

@@ -1,7 +1,4 @@
 <?php 
-	/**
-	 * author Faiz Muazzam
-	 */
 	// Membuat Class Tablet
 	class Tablet
 	{

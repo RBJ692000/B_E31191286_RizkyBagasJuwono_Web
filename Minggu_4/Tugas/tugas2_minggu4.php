@@ -1,7 +1,4 @@
 <?php 
-	/**
-	 * author Faiz Muazzam
-	 */
 	// membuat class item (class induk)
 	class Item
 	{

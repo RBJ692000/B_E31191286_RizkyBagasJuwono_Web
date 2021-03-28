@@ -74,10 +74,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		<p>Tugas 3 Minggu 6</p>
 
 		<p>If you would like to edit this page you'll find it located at:</p>
-		<code>Hello Faiz Muazzam E31190648 A</code>
+		<code>Hello Rizky Bagas Juwono E31191286 B</code>
 
 		<p>The corresponding controller for this page is found at:</p>
-		<code>Hello Faiz Muazzam E31190648 A</code>
+		<code>Hello Rizky Bagas Juwono E31191286 B</code>
 
 		<p>If you are exploring CodeIgniter for the very first time, you should start by reading the <a href="user_guide/">User Guide</a>.</p>
 	</div>

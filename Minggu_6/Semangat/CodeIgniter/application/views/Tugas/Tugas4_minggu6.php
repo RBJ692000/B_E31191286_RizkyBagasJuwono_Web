@@ -68,7 +68,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <body>
 
 <div id="container">
-	<h1>Hello Faiz Muazzam E31190648 A</h1>
+	<h1>Hello Rizky Bagas Juwono E31191286 B</h1>
 
 	<div id="body">
 		<p>Tugas 4 Minggu 6</p>
@@ -77,7 +77,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		<code><?= $var1; ?> | <?= $var2; ?> | <?= $var3; ?> | <?= $var4; ?></code>
 
 		<p>The corresponding controller for this page is found at:</p>
-		<code>Hello Faiz Muazzam E31190648 A</code>
+		<code>Hello Rizky Bagas Juwono E31191286 B</code>
 
 		<p>If you are exploring CodeIgniter for the very first time, you should start by reading the <a href="user_guide/">User Guide</a>.</p>
 	</div>

@@ -20,7 +20,7 @@ class myBlog extends CI_Controller {
 	 */
 	public function index()
 	{
-		$this->load->view('Rizky_Bagas_Juwono_Project_Blog/Home/index');
+		$this->load->view('Faiz_Muazzam_Project_Blog/Home/index');
 	}
 }
 

@@ -1,8 +1,4 @@
 <?php 
-	/**
-	 * author by Faiz Muazzam
-	 */
-	//Declare class
 	class pilihJurusanMIPA {
 		// properties
 		public $Nama;
@@ -72,19 +68,19 @@
 	echo "<h1>Data dan Nilai</h1>";
 	//Membuat instance
 	$person = new pilihJurusanMIPA ();
-	echo "Nama : ".$person -> nama="Faiz Muazzam";
+	echo "Nama : ".$person -> nama="Rizky Bagas Juwono";
 	echo "<br>";
 	echo "Asal :".$person -> asal="Tulungagung";
 	echo "<br>";
-	echo "Nilai Matematika :" .$person -> mm="100";
+	echo "Nilai Matematika :" .$person -> mm="85";
 	echo "<br>";
-	echo "Nilai Fisika :" .$person -> fisika="95";
+	echo "Nilai Fisika :" .$person -> fisika="90";
 	echo "<br>";
 	echo "Nilai Kimia : " .$person -> kimia="80";
 	echo "<br>";
 	echo "Nilai Bhs. Inggris : " .$person -> inggris="90";
 	echo "<br>";
-	echo "Nilai Biologi : " .$person -> biologi="80";
+	echo "Nilai Biologi : " .$person -> biologi="95";
 	echo "<br>";
 
 	echo "<h3>Jurusan Informatika </h3>";

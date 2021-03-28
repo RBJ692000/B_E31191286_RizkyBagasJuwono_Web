@@ -1,7 +1,4 @@
 <?php 
-	/**
-	 * author Faiz Muazzam
-	 */
 	// memanggil file Car.php untuk menjalankan interface disini 
 	include 'Car.php';
 	// membuat class Minicar yang di implementasikan dengan interface

@@ -1,10 +1,6 @@
 <?php 
 	// memanggil file Shape.php agar bisa menjalan kan interface
 	include 'Shape.php';
-
-	/**
-	 * Author Faiz Muazzam
-	 */
 	// membuat class dan di implementasi dengan interface 
 	class Circle implements Shape
 	{

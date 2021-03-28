@@ -1,8 +1,4 @@
 <?php
-/**
-* author by Faiz Muazzam
-*/
-//Declare class
 class kendaraan {
 	//properties
 	public $jeniskendaraan;
@@ -37,35 +33,35 @@ class kendaraan {
 }
 
 //Membuat instance
-$lambo = new kendaraan ();
+$ferrari = new kendaraan ();
 
 echo "<h1>Data kendaraan</h1>";
 //Set values and get values
-echo "Jenis Kendaraan : " .$lambo -> jeniskendaraan="Mobil";
+echo "Jenis Kendaraan : " .$ferrari -> jeniskendaraan="Mobil";
 echo "<br>";
 //Set values and get values
-echo "Roda : " .$lambo -> jumlahroda="4";
+echo "Roda : " .$ferrari -> jumlahroda="4";
 echo "<br>";
 //Set values and get values
-echo "Merek : " .$lambo -> jenismerk="lamborghini";
+echo "Merek : " .$ferrari -> jenismerk="ferrari";
 echo "<br>";
 //Set values and get values
-echo "Tahun Pembuatan : " .$lambo -> tahunpembuatan=2020;
+echo "Tahun Pembuatan : " .$ferrari -> tahunpembuatan=2020;
 echo "<br>";
 //Set values and get values
-echo "Bahan Bakar : " .$lambo -> bahanbakar="Pertamax Turbo";
+echo "Bahan Bakar : " .$ferrari -> bahanbakar="Pertamax Turbo";
 echo "<br>";
 //Set values and get values
-echo "Harga Baru: " .$lambo -> harga="10000"; echo " $";
+echo "Harga Baru: " .$ferrari -> harga="10000"; echo " $";
 echo "<br>";
 //Set values and get methods hargaSecond
-echo "Harga Second : " .$lambo -> hargaSecond(); echo " $";
+echo "Harga Second : " .$ferrari -> hargaSecond(); echo " $";
 echo "<br>";
 
 
 echo "<h3>Mendapat Subsidi ?</h3>";
 // get methods
-echo $lambo -> dapatSubsidi();
+echo $ferrari -> dapatSubsidi();
 
 echo "<h1>Data kendaraan</h1>";
 //Membuat instance

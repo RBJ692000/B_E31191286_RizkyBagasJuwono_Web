@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
+	<title>Rizky Bagas Juwono E31191286 B</title>
 </head>
 <body>
 

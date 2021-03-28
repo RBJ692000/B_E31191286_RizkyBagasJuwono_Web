@@ -1,8 +1,4 @@
 <?php 
-/**
- * author by Faiz Muazzam
- */
-// soal 1
 class Laptop
 {
 	// buat properties dan method (soal 2 dan 3)
@@ -30,25 +26,25 @@ class Laptop
 
 }
  // membuat 3 objek (soal 7)
-$faiz= new Laptop();
-$naufal= new Laptop();
-$aji= new Laptop();
+$rizky= new Laptop();
+$budi= new Laptop();
+$imam= new Laptop();
 
 // set value objek faiz
-$faiz -> pemilik ='A';
-$faiz -> merek ='Asus';
+$rizky -> pemilik ='A';
+$rizky -> merek ='Asus';
 
 // set value objek faiz
-$naufal -> pemilik ='B';
-$naufal -> merek ='Acer';
+$budi -> pemilik ='B';
+$budi -> merek ='Acer';
 
 // set value objek faiz
-$aji -> pemilik ='C';
-$aji -> merek ='Lenovo';
+$imam -> pemilik ='C';
+$imam -> merek ='Lenovo';
 
 // memanggil dan eksekusi method 
-echo $faiz -> hidupkan_laptop()."<br>";
-echo $naufal -> matikan_laptop()."<br>";
-echo $aji -> restart_laptop()."<br>";
+echo $rizky -> hidupkan_laptop()."<br>";
+echo $budi -> matikan_laptop()."<br>";
+echo $imam -> restart_laptop()."<br>";
 
 ?>

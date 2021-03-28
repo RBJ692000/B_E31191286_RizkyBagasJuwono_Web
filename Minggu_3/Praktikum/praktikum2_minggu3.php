@@ -1,7 +1,4 @@
 <?php
-/**
-* author by Faiz Muazzam
- */
 class Car {
 
 	//private
