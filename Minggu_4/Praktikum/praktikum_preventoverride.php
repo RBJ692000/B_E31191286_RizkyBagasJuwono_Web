@@ -8,11 +8,11 @@
 		}
 	}
 
-	//The child class has hello methods that to override the helo method in the parent
+	//The child class has hello methods that to override the hello method in the parent
 	class SportsCar extends Car {
 		public function hello()
 		{
-			return "hallo";
+			return "hello";
 		}
 	}
 
